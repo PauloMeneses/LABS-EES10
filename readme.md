@@ -1,1 +1,1 @@
-Este é o repositorio dos laboratorios da materia de controle clássico I, ou ESS-10.Além de mim, parcipa desse grupo o Emanuel e a Emily
+Este é o repositório dos laboratórios da matéria de controle clássico I, ou ESS-10.Além de mim, participa desse grupo o Emanuel e a Emily
