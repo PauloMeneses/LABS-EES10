@@ -2,6 +2,7 @@ clear all;
 
 load("40_percent.mat")
 plot(out.simout_30.Time, out.simout_30.Data(1:end,2));
+grid on 
 
 tp40 = 20.75 - 20.117;
 yp40 = 52.245 - 43.155;
