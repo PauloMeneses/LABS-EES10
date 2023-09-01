@@ -12,7 +12,7 @@ Mp40 = (yp40-yss40)/yss40;
 
 ksi40 = -log(Mp40)/sqrt(pi^2 + (log(Mp40))^2);
 omega_n40 = pi/(tp40*sqrt(1-ksi40^2));
-k40 = deg2rad(yss40)/(30-25.16); %amplitude do degrau a ser preenchida.
+k40 = deg2rad(yss40/(30-25.16)); %amplitude do degrau a ser preenchida.
 % 
 % coloca o final menos o que estava antes, verificar o arquivo _20
 %
