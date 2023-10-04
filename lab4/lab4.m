@@ -20,7 +20,7 @@ N_pid1 = 20; C1 = tf([1 1.264 19.01] *  68.264, [1 N_pid1 0]);
 N_pid2 = 21; C2 = tf([1 2.03 16] *  79.76, [1 N_pid2 0]);
 N_pid3 = 21; C3 = tf([1 1.9 11.6] *  73.51, [1 N_pid3 0]);
 N_pid4 = 20; C4 = tf([1 1.94  7.2] *  68, [1 N_pid4 0]);
-N_pid5 = 20; C5 = tf([1 2.1  2.03] *  64.86, [1 N_pid5 0]);
+N_pid5 = 21; C5 = tf([1 2  1.87] *  50, [1 N_pid5 0]);
 
 [Apid1, Bpid1, Cpid1, Dpid1] = tf2ss(C1.num{1}, C1.den{1});
 [Apid2, Bpid2, Cpid2, Dpid2] = tf2ss(C2.num{1}, C2.den{1});
