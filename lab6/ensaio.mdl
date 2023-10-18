@@ -46,8 +46,8 @@ __MWOPC_PART_BEGIN__ /metadata/coreProperties.xml
   <dcterms:created xsi:type="dcterms:W3CDTF">2022-09-16T18:43:00Z</dcterms:created>
   <dc:creator>colom</dc:creator>
   <cp:lastModifiedBy>emanu</cp:lastModifiedBy>
-  <dcterms:modified xsi:type="dcterms:W3CDTF">2023-10-18T18:19:55Z</dcterms:modified>
-  <cp:revision>10.5</cp:revision>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">2023-10-18T18:22:03Z</dcterms:modified>
+  <cp:revision>10.6</cp:revision>
   <cp:version>R2023b</cp:version>
 </cp:coreProperties>
 
@@ -265,7 +265,7 @@ __MWOPC_PART_BEGIN__ /simulink/blockdiagram.xml
     <ConfigManagerSettings>
       <P Name="ModifiedByFormat">%&lt;Auto&gt;</P>
       <P Name="ModifiedDateFormat">%&lt;Auto&gt;</P>
-      <P Name="ModelVersionFormat">%&lt;AutoIncrement:10.5&gt;</P>
+      <P Name="ModelVersionFormat">%&lt;AutoIncrement:10.6&gt;</P>
     </ConfigManagerSettings>
     <EditorSettings>
       <P Name="MultithreadedSim">on</P>
@@ -2049,7 +2049,6 @@ __MWOPC_PART_BEGIN__ /simulink/systems/system_root.xml
 <System>
   <P Name="Location">[-1, -7, 1537, 817]</P>
   <P Name="Open">on</P>
-  <P Name="ZoomFactor">150</P>
   <P Name="ReportName">simulink-default.rpt</P>
   <P Name="SIDHighWatermark">300</P>
   <Block BlockType="Clock" Name="Clock" SID="295">
@@ -2129,7 +2128,7 @@ to Degrees</P>
     <P Name="Position">[230, 250, 260, 280]</P>
     <P Name="ZOrder">233</P>
     <P Name="Amplitude">5</P>
-    <P Name="Frequency">0.1</P>
+    <P Name="Frequency">2.1</P>
     <P Name="SampleTime">0</P>
   </Block>
   <Block BlockType="Sum" Name="Sum" SID="292">
@@ -2151,7 +2150,7 @@ to Degrees</P>
     <P Name="Position">[455, 370, 505, 410]</P>
     <P Name="ZOrder">235</P>
     <P Name="Criteria">u2 &gt; Threshold</P>
-    <P Name="Threshold">220</P>
+    <P Name="Threshold">60</P>
     <P Name="InputSameDT">off</P>
     <P Name="SaturateOnIntegerOverflow">off</P>
   </Block>
@@ -2295,9 +2294,9 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
           <P Name="ViewObjType" Class="char">SimulinkTopLevel</P>
           <P Name="LoadSaveID" Class="char">0</P>
           <P Name="Extents" Class="double">[1487.0, 477.0]</P>
-          <P Name="ZoomFactor" Class="double">1.5</P>
-          <P Name="Offset" Class="double">[144.015472186102, 192.08589733771078]</P>
-          <P Name="SceneRectInView" Class="double">[144.015472186102, 192.08589733771078, 793.06666666666672, 254.4]</P>
+          <P Name="ZoomFactor" Class="double">1.0</P>
+          <P Name="Offset" Class="double">[58.186900757530566, 163.62875448056769]</P>
+          <P Name="SceneRectInView" Class="double">[58.186900757530566, 163.62875448056769, 1189.6, 381.6]</P>
         </Object>
         <Object ObjectID="6">
           <P Name="IsActive" Class="logical">0</P>
