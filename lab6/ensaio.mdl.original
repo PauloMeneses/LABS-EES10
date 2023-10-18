@@ -45,9 +45,9 @@ __MWOPC_PART_BEGIN__ /metadata/coreProperties.xml
   <cp:category>model</cp:category>
   <dcterms:created xsi:type="dcterms:W3CDTF">2022-09-16T18:43:00Z</dcterms:created>
   <dc:creator>colom</dc:creator>
-  <cp:lastModifiedBy>Paulo</cp:lastModifiedBy>
-  <dcterms:modified xsi:type="dcterms:W3CDTF">2023-10-18T18:47:41Z</dcterms:modified>
-  <cp:revision>10.13</cp:revision>
+  <cp:lastModifiedBy>emanu</cp:lastModifiedBy>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">2023-10-18T18:22:03Z</dcterms:modified>
+  <cp:revision>10.6</cp:revision>
   <cp:version>R2023b</cp:version>
 </cp:coreProperties>
 
@@ -151,10 +151,10 @@ AAAAEAACAFRMAAAOAAAAaAIAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAA
 AAAFAAQADgAAAAEAAABiAAAAZGlzcFRpbWUAAAAAAABkaXNwTW9kZQAAAAAAAG1pblRpbWUAAAAA
 AAAAbWF4VGltZQAAAAAAAABhZnRlckZpbmFsU3RyAHNhbXBsZVRpbWUAAAAAemVyb0Nyb3NzAAAA
 AAAAAAAAAAAOAAAAQAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAAAAEAAAACAAAAAQAAAAAAAAAJ
-AAAAEAAAAAAAAAAAAAAAAAAAAAAAbkAOAAAAOAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAAAAEA
+AAAAEAAAAAAAAAAAAAAAAAAAAAAAVEAOAAAAOAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAAAAEA
 AAABAAAAAQAAAAAAAAAJAAAACAAAAAAAAAAAAPA/DgAAADgAAAAGAAAACAAAAAYAAAAAAAAABQAA
 AAgAAAABAAAAAQAAAAEAAAAAAAAACQAAAAgAAAAAAAAAAAAAAA4AAAA4AAAABgAAAAgAAAAGAAAA
-AAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAkAAAAIAAAAAAAAAAAAbkAOAAAAQAAAAAYAAAAI
+AAAAAAUAAAAIAAAAAQAAAAEAAAABAAAAAAAAAAkAAAAIAAAAAAAAAAAAVEAOAAAAQAAAAAYAAAAI
 AAAABAAAAAAAAAAFAAAACAAAAAEAAAALAAAAAQAAAAAAAAAQAAAACwAAAEV4dHJhcG9sYXRlAAAA
 AAAOAAAAOAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAJAAAACAAA
 AAAAAAAAAAAADgAAADAAAAAGAAAACAAAAAQAAAAAAAAABQAAAAgAAAABAAAAAgAAAAEAAAAAAAAA
@@ -162,10 +162,10 @@ EAACAG9uAAAOAAAAiAEAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAAAAEAAAABAAAAAQAAAAAAAAAF
 AAQADgAAAAEAAAA4AAAAYWN0aXZlRGlzcElkeAB0aW1lUmFuZ2UAAAAAAG5hbWUAAAAAAAAAAAAA
 ZGlzcGxheVJhbmdlAAAOAAAAQAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAAAAEAAAACAAAAAQAA
 AAAAAAAJAAAAEAAAAAAAAAAAAABAAAAAAAAA8D8OAAAAQAAAAAYAAAAIAAAABgAAAAAAAAAFAAAA
-CAAAAAEAAAACAAAAAQAAAAAAAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAbkAOAAAAOAAAAAYAAAAI
+CAAAAAEAAAACAAAAAQAAAAAAAAAJAAAAEAAAAAAAAAAAAAAAAAAAAAAAVEAOAAAAOAAAAAYAAAAI
 AAAABAAAAAAAAAAFAAAACAAAAAEAAAAHAAAAAQAAAAAAAAAQAAAABwAAAEdyb3VwIDEADgAAAEAA
 AAAGAAAACAAAAAYAAAAAAAAABQAAAAgAAAABAAAAAgAAAAEAAAAAAAAACQAAABAAAAAAAAAAAAAA
-AAAAAAAAAG5ADgAAADgAAAAGAAAACAAAAAYAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAA
+AAAAAAAAAFRADgAAADgAAAAGAAAACAAAAAYAAAAAAAAABQAAAAgAAAABAAAAAQAAAAEAAAAAAAAA
 CQAAAAgAAAAAAAAAAADwPw4AAAA4AAAABgAAAAgAAAAGAAAAAAAAAAUAAAAIAAAAAQAAAAEAAAAB
 AAAAAAAAAAkAAAAIAAAAAAAAAAAAAAAOAAAAgAAAAAYAAAAIAAAAEQAAAAAAAAABAAAAAAAAAAEA
 BABNQ09TAQAAAAgAAABTaWdTdWl0ZQ4AAABIAAAABgAAAAgAAAANAAAAAAAAAAUAAAAIAAAABgAA
@@ -190,18 +190,18 @@ cCAxAA4AAABAAAAABgAAAAgAAAAEAAAAAAAAAAUAAAAIAAAAAQAAAAoAAAABAAAAAAAAABAAAAAK
 AAAAcGFydGlkYSh0KQAAAAAAAA4AAACoAAAABgAAAAgAAAAGAAAAAAAAAAUAAAAIAAAAAQAAAA8A
 AAABAAAAAAAAAAkAAAB4AAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAOA/AAAAAAAABEAAAAAAAAAE
 QAAAAAAAABpAAAAAAAAAGkAAAAAAAAAkQAAAAAAAACRAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFA
-AAAAAAAAMkAAAAAAAAAzQAAAAAAAAG5ADgAAAKgAAAAGAAAACAAAAAYAAAAAAAAABQAAAAgAAAAB
+AAAAAAAAMkAAAAAAAAAzQAAAAAAAAFRADgAAAKgAAAAGAAAACAAAAAYAAAAAAAAABQAAAAgAAAAB
 AAAADwAAAAEAAAAAAAAACQAAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAn0AAAAAAAECfQAAA
 AAAAAABAAAAAAAAAAAAAAAAAAECQQAAAAAAAQJBAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAOAAAAAYAAAAIAAAABAAAAAAAAAAFAAAA
 CAAAAAEAAAAIAAAAAQAAAAAAAAAQAAAACAAAAFNpZ25hbCAxDgAAAGAAAAAGAAAACAAAAAYAAAAA
 AAAABQAAAAgAAAABAAAABgAAAAEAAAAAAAAACQAAADAAAAAAAAAAAAAAAAAAAAAAACZAAAAAAAAA
-NEAAAAAAAIBrQAAAAAAAwGxAAAAAAAAAbkAOAAAAYAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAA
-AAEAAAAGAAAAAQAAAAAAAAAJAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzMzMzQDQzMzMzMzNA
+NEAAAAAAAABOQAAAAAAAgFFAAAAAAAAAVEAOAAAAYAAAAAYAAAAIAAAABgAAAAAAAAAFAAAACAAA
+AAEAAAAGAAAAAQAAAAAAAAAJAAAAMAAAAAAAAAAAAAAAAAAAAAAAAABcj8L1KBwzQDQzMzMzMzNA
 AAAAAAAAAAAAAAAAAAAAAA4AAABQAAAABgAAAAgAAAANAAAAAAAAAAUAAAAIAAAABwAAAAEAAAAB
 AAAAAAAAAAYAAAAcAAAAAAAA3QIAAAABAAAAAgAAAAMAAAAEAAAAAQAAAAAAAAAOAAAAQAAAAAYA
 AAAIAAAABgAAAAAAAAAFAAAACAAAAAEAAAACAAAAAQAAAAAAAAAJAAAAEAAAAAAAAAAAAAAAAAAA
-AAAAbkAOAAAASAAAAAYAAAAIAAAADQAAAAAAAAAFAAAACAAAAAYAAAABAAAAAQAAAAAAAAAGAAAA
+AAAAVEAOAAAASAAAAAYAAAAIAAAADQAAAAAAAAAFAAAACAAAAAYAAAABAAAAAQAAAAAAAAAGAAAA
 GAAAAAAAAN0CAAAAAQAAAAEAAAACAAAAAgAAAA4AAAAoAQAABgAAAAgAAAABAAAAAAAAAAUAAAAI
 AAAABAAAAAEAAAABAAAAAAAAAA4AAAA4AAAABgAAAAgAAAACAAAAAAAAAAUAAAAIAAAAAQAAAAAA
 AAABAAAAAAAAAAUABAABAAAAAQAAAAAAAAAOAAAAOAAAAAYAAAAIAAAAAgAAAAAAAAAFAAAACAAA
@@ -259,13 +259,13 @@ __MWOPC_PART_BEGIN__ /simulink/blockdiagram.xml
 <?xml version="1.0" encoding="utf-8"?>
 <ModelInformation Version="1.0">
   <Model>
-    <P Name="ModelUUID">b5110f16-9369-4428-ae25-3bc1b962b33f</P>
+    <P Name="ModelUUID">a5181a3e-b61c-461a-8a9f-1883a2d4af59</P>
     <P Name="OverrideScopeRefreshTime">off</P>
     <P Name="LastSavedArchitecture">win64</P>
     <ConfigManagerSettings>
       <P Name="ModifiedByFormat">%&lt;Auto&gt;</P>
       <P Name="ModifiedDateFormat">%&lt;Auto&gt;</P>
-      <P Name="ModelVersionFormat">%&lt;AutoIncrement:10.13&gt;</P>
+      <P Name="ModelVersionFormat">%&lt;AutoIncrement:10.6&gt;</P>
     </ConfigManagerSettings>
     <EditorSettings>
       <P Name="MultithreadedSim">on</P>
@@ -311,7 +311,7 @@ __MWOPC_PART_BEGIN__ /simulink/configSet0.xml
         <P Name="Description"/>
         <P Name="Components" Class="double">[]</P>
         <P Name="StartTime">0.0</P>
-        <P Name="StopTime">240</P>
+        <P Name="StopTime">80</P>
         <P Name="AbsTol">auto</P>
         <P Name="AutoScaleAbsTol">on</P>
         <P Name="FixedStep">0.001</P>
@@ -1108,8 +1108,8 @@ __MWOPC_PART_BEGIN__ /simulink/hdlParams.xml
 __MWOPC_PART_BEGIN__ /simulink/modelDictionary.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <MF0 version="1.1" defaultPackage="slid" packageUris="http://schema.mathworks.com/mf0/slid/R2023a_20220628">
-  <System type="System" uuid="2d534e76-6441-46a7-bb84-8e78555dc602">
-    <Interface type="Interface" uuid="252e1ce4-c55e-42ea-9b8f-d6f930bf6336"/>
+  <System type="System" uuid="3f112fe7-1d2b-4bf6-a96c-bd7fee828b9a">
+    <Interface type="Interface" uuid="af04e4f6-a2f4-480a-a915-587d35815c75"/>
   </System>
 </MF0>
 __MWOPC_PART_BEGIN__ /simulink/plugins/SimscapeModelParametersPlugin.xml
@@ -1333,7 +1333,7 @@ port_label(&apos;output&apos;, 11, &apos;Real Time Clock&apos;);
 </Initialization>
       <MaskParameter Name="serialPort" Type="edit">
         <Prompt>Serial port</Prompt>
-        <Value>&apos;COM3&apos;</Value>
+        <Value>&apos;COM5&apos;</Value>
       </MaskParameter>
       <MaskParameter Name="sampleTime" Type="spinbox">
         <Prompt>Sample time (ms)</Prompt>
@@ -1987,7 +1987,7 @@ port_label(&apos;output&apos;, 11, &apos;Real Time Clock&apos;);
     <P Name="BackgroundColor">[0.901961, 0.901961, 1.000000]</P>
     <P Name="DropShadow">on</P>
     <P Name="AnnotationType">area_annotation</P>
-    <P Name="ZOrder">109</P>
+    <P Name="ZOrder">107</P>
     <P Name="FontSize">12</P>
   </Annotation>
 </System>
@@ -2107,7 +2107,7 @@ to Degrees</P>
     <P Name="StopFcn">sigbuilder_block(&apos;stop&apos;);</P>
     <P Name="NameChangeFcn">sigbuilder_block(&apos;namechange&apos;);</P>
     <P Name="ClipboardFcn">sigbuilder_block(&apos;clipboard&apos;);</P>
-    <P Name="OpenFcn">sigbuilder_block(&apos;open&apos;,[5.4 36 1141.2 516.6 ]);</P>
+    <P Name="OpenFcn">sigbuilder_block(&apos;open&apos;,[0 36 1152 555.6 ]);</P>
     <P Name="CloseFcn">sigbuilder_block(&apos;close&apos;);</P>
     <P Name="MaskHideContents">on</P>
     <P Name="ContentPreviewEnabled">on</P>
@@ -2128,7 +2128,7 @@ to Degrees</P>
     <P Name="Position">[230, 250, 260, 280]</P>
     <P Name="ZOrder">233</P>
     <P Name="Amplitude">5</P>
-    <P Name="Frequency">0.6</P>
+    <P Name="Frequency">2.1</P>
     <P Name="SampleTime">0</P>
   </Block>
   <Block BlockType="Sum" Name="Sum" SID="292">
@@ -2150,7 +2150,7 @@ to Degrees</P>
     <P Name="Position">[455, 370, 505, 410]</P>
     <P Name="ZOrder">235</P>
     <P Name="Criteria">u2 &gt; Threshold</P>
-    <P Name="Threshold">230</P>
+    <P Name="Threshold">60</P>
     <P Name="InputSameDT">off</P>
     <P Name="SaturateOnIntegerOverflow">off</P>
   </Block>
@@ -2285,7 +2285,7 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
         <P Name="Minimized" Class="char">Unset</P>
       </Object>
       <Object PropName="ExplorerBarInfo" ObjectID="4" ClassName="Simulink.ExplorerBarInfo">
-        <P Name="Visible" Class="logical">0</P>
+        <P Name="Visible" Class="logical">1</P>
       </Object>
       <Array PropName="EditorsInfo" Type="Simulink.EditorInfo" Dimension="1*2">
         <Object ObjectID="5">
@@ -2293,23 +2293,23 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
           <P Name="IsTabbed" Class="logical">1</P>
           <P Name="ViewObjType" Class="char">SimulinkTopLevel</P>
           <P Name="LoadSaveID" Class="char">0</P>
-          <P Name="Extents" Class="double">[1487.0, 780.0]</P>
+          <P Name="Extents" Class="double">[1487.0, 477.0]</P>
           <P Name="ZoomFactor" Class="double">1.0</P>
-          <P Name="Offset" Class="double">[58.186900757530566, -17.5]</P>
-          <P Name="SceneRectInView" Class="double">[58.186900757530566, -17.5, 1189.6, 624.0]</P>
+          <P Name="Offset" Class="double">[58.186900757530566, 163.62875448056769]</P>
+          <P Name="SceneRectInView" Class="double">[58.186900757530566, 163.62875448056769, 1189.6, 381.6]</P>
         </Object>
         <Object ObjectID="6">
           <P Name="IsActive" Class="logical">0</P>
           <P Name="IsTabbed" Class="logical">0</P>
           <P Name="ViewObjType" Class="char">SimulinkSubsys</P>
           <P Name="LoadSaveID" Class="char">129</P>
-          <P Name="Extents" Class="double">[1487.0, 780.0]</P>
-          <P Name="ZoomFactor" Class="double">0.39999999999999986</P>
-          <P Name="Offset" Class="double">[-1755.66203125, -336.43999999999994]</P>
-          <P Name="SceneRectInView" Class="double">[-1755.66203125, -336.43999999999994, 2974.0000000000009, 1560.0000000000005]</P>
+          <P Name="Extents" Class="double">[1487.0, 741.0]</P>
+          <P Name="ZoomFactor" Class="double">0.39999999999999997</P>
+          <P Name="Offset" Class="double">[-1755.6620312499997, -297.43999999999983]</P>
+          <P Name="SceneRectInView" Class="double">[-1755.6620312499997, -297.43999999999983, 2974.0000000000005, 1482.0000000000002]</P>
         </Object>
       </Array>
-      <Array PropName="DockComponentsInfo" Type="Simulink.DockComponentInfo" Dimension="1*2">
+      <Array PropName="DockComponentsInfo" Type="Simulink.DockComponentInfo" Dimension="1*3">
         <Object ObjectID="7">
           <P Name="Type" Class="char">Simulink:Editor:ReferencedFiles</P>
           <P Name="ID" Class="char">Referenced Files</P>
@@ -2335,12 +2335,24 @@ __MWOPC_PART_BEGIN__ /simulink/windowsInfo.xml
           <P Name="Height" Class="int32">384</P>
           <P Name="Minimized" Class="char">Unset</P>
         </Object>
+        <Object ObjectID="9">
+          <P Name="Type" Class="char">LibraryBrowser2 LibraryBrowserStudioComponent</P>
+          <P Name="ID" Class="char">ensaio</P>
+          <P Name="Visible" Class="logical">1</P>
+          <P Name="CreateCallback" Class="char"/>
+          <P Name="UserData" Class="char"/>
+          <P Name="Floating" Class="logical">0</P>
+          <P Name="DockPosition" Class="char">Left</P>
+          <P Name="Width" Class="int32">303</P>
+          <P Name="Height" Class="int32">603</P>
+          <P Name="Minimized" Class="char">Unset</P>
+        </Object>
       </Array>
-      <P Name="WindowState" Class="char">AAAA/wAAAAD9AAAAAwAAAAAAAAF/AAADLPwCAAAABPsAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMwEAAAAxAAAB+AAAAAAAAAAA+wAAABYARABvAGMAawBXAGkAZABnAGUAdAA0AAAAAAD/////AAAAAAAAAAD8AAAAlwAAAywAAAB5AP////oAAAAAAgAAAAL7AAAAUgBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQALwBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQBAAAAAP////8AAAB5AP////sAAABoAEwAaQBiAHIAYQByAHkAQgByAG8AdwBzAGUAcgAyACAATABpAGIAcgBhAHIAeQBCAHIAbwB3AHMAZQByAFMAdAB1AGQAaQBvAEMAbwBtAHAAbwBuAGUAbgB0AC8AZQBuAHMAYQBpAG8BAAAAAP////8AAAAAAAAAAPsAAABgAFMAaQBtAHUAbABpAG4AawA6AEUAZABpAHQAbwByADoAUgBlAGYAZQByAGUAbgBjAGUAZABGAGkAbABlAHMALwBSAGUAZgBlAHIAZQBuAGMAZQBkACAARgBpAGwAZQBzAAAAAAD/////AAAApwD///8AAAABAAAAAAAAAAD8AgAAAAH7AAAAVABHAEwAVQBFADIAOgBQAHIAbwBwAGUAcgB0AHkASQBuAHMAcABlAGMAdABvAHIALwBQAHIAbwBwAGUAcgB0AHkAIABJAG4AcwBwAGUAYwB0AG8AcgAAAAAA/////wAAAhYA////AAAAAwAABfwAAAED/AEAAAAB+/////8AAAAAAP////8AAAGuAP///wAABfwAAAMsAAAAAQAAAAIAAAABAAAAAvwAAAABAAAAAgAAAAA=</P>
+      <P Name="WindowState" Class="char">AAAA/wAAAAD9AAAAAwAAAAAAAAF/AAADLPwCAAAABPsAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMwEAAAAxAAAB+AAAAAAAAAAA+wAAABYARABvAGMAawBXAGkAZABnAGUAdAA0AAAAAAD/////AAAAAAAAAAD8AAAAlwAAAywAAAECAQAAF/oAAAABAgAAAAL7AAAAUgBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQALwBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQBAAAAAP////8AAAB5AP////sAAABoAEwAaQBiAHIAYQByAHkAQgByAG8AdwBzAGUAcgAyACAATABpAGIAcgBhAHIAeQBCAHIAbwB3AHMAZQByAFMAdAB1AGQAaQBvAEMAbwBtAHAAbwBuAGUAbgB0AC8AZQBuAHMAYQBpAG8BAAAAAP////8AAADqAP////sAAABgAFMAaQBtAHUAbABpAG4AawA6AEUAZABpAHQAbwByADoAUgBlAGYAZQByAGUAbgBjAGUAZABGAGkAbABlAHMALwBSAGUAZgBlAHIAZQBuAGMAZQBkACAARgBpAGwAZQBzAAAAAAD/////AAAApwD///8AAAABAAAAAAAAAAD8AgAAAAH7AAAAVABHAEwAVQBFADIAOgBQAHIAbwBwAGUAcgB0AHkASQBuAHMAcABlAGMAdABvAHIALwBQAHIAbwBwAGUAcgB0AHkAIABJAG4AcwBwAGUAYwB0AG8AcgAAAAAA/////wAAAhYA////AAAAAwAABfwAAAED/AEAAAAB+/////8BAAABhAAABfwAAAGuAP///wAABfwAAAIkAAAAAQAAAAIAAAABAAAAAvwAAAABAAAAAgAAAAA=</P>
       <Array PropName="PersistedApps" Type="Cell" Dimension="0*1"/>
       <P Name="WindowUuid" Class="char">4964a225-70d3-4fac-bddc-d1b8a94b1281</P>
     </Object>
-    <P Name="BDUuid" Class="char">76124bf5-3f8c-4932-aa90-0c714105f2ad</P>
+    <P Name="BDUuid" Class="char">ec959be6-677b-4271-85cc-ac5af4b70c90</P>
   </Object>
 </WindowsInfo>
 
