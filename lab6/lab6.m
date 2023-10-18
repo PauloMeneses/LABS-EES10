@@ -1,4 +1,4 @@
-%clc, clear, close all
+clc, clear, close all
 
 alpha = 18.02;
 beta =  1.74;
@@ -7,7 +7,7 @@ gamma = 0.5;
 Gmotor = tf(1, [1/5 1]);
 G = tf(gamma, [1 beta alpha])    * Gmotor;
 
-%bode(G)
+bode(G)
 omega_n = sqrt(alpha);
 ksi = beta/2/omega_n;
 
@@ -18,4 +18,10 @@ freq_rad = [0.10, 0.60, 1.20, 1.70, 2.10, 2.50, 2.75, 3.00, 3.15, 3.30, 3.45, 3.
 
 freq_hz  = 1/(2*pi) * freq_rad;
 
+%curva estatica
+yss = deg2rad(30);
+uss = 34.2003*yss + 1.1513; 
+
+A = 5; %amplitude de oscilação em U
+dyss = rad2deg(A/34.2003); %amplitude de oscilação em graus
 
