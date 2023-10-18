@@ -7,7 +7,6 @@ gamma = 0.5602;
 Gmotor = tf(1, [1/5 1]);
 G = tf(gamma, [1 beta alpha])    * Gmotor;
 
-
 %Raizes_G = roots(G.denominator{1});
 
 %meu_polo = 2.47+1i*3;
